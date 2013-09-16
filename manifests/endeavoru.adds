@@ -2,13 +2,6 @@
     {
         "remote":      "github",
         "account":     "teemodk",
-        "repository":  "padroid_vendor_pa",
-        "target_path": "vendor/pa",
-        "revision":    "jb43-legacy"
-    },
-    {
-        "remote":      "github",
-        "account":     "teemodk",
         "repository":  "android_device_htc_endeavoru",
         "target_path": "device/htc/endeavoru",
         "revision":    "cm-10.2"
