@@ -31,7 +31,7 @@ include vendor/pa/config/pa_common.mk
 $(call inherit-product, device/htc/endeavoru/full_endeavoru.mk)
 
 # Product Package Extras
-include vendor/pa/packages/endeavoru.mk
+# include vendor/pa/packages/endeavoru.mk
 
 # Include CM extras
 EXTRA_CM_PACKAGES := true
