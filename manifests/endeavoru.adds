@@ -2,27 +2,6 @@
     {
         "remote":      "github",
         "account":     "teemodk",
-        "repository":  "android_device_htc_endeavoru",
-        "target_path": "device/htc/endeavoru",
-        "revision":    "cm-10.2"
-    },
-    {
-        "remote":      "github",
-        "account":     "teemodk",
-        "repository":  "android_kernel_htc_endeavoru",
-        "target_path": "kernel/htc/endeavoru",
-        "revision":    "cm-10.2"
-    },
-    {
-        "remote":      "github",
-        "account":     "teemodk",
-        "repository":  "proprietary_vendor_htc",
-        "target_path": "vendor/htc",
-        "revision":    "cm-10.2"
-    },
-    {
-        "remote":      "github",
-        "account":     "teemodk",
         "repository":  "android_packages_apps_Torch",
         "target_path": "packages/apps/Torch",
         "revision":    "cm-10.2"
