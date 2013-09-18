@@ -1,2 +1,6 @@
 [
+    {
+        "name":     "platform/external/wpa_supplicant_8",
+        "path":     "external/wpa_supplicant_8"
+    }
 ]
