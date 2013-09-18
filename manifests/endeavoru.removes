@@ -1,26 +1,2 @@
 [
-    {
-        "name":     "android_hardware_libhardware",
-        "path":     "hardware/libhardware"
-    },
-    {
-        "name":     "android_hardware_libhardware_legacy",
-        "path":     "hardware/libhardware_legacy"
-    },
-    {
-        "name":     "platform/external/wpa_supplicant_8",
-        "path":     "external/wpa_supplicant_8"
-    },
-    {
-        "name":     "platform/hardware/ti/wlan",
-        "path":     "hardware/ti/wlan"
-    },
-    {
-        "name":     "android_external_bluetooth_bluedroid",
-        "path":     "external/bluetooth/bluedroid"
-    },
-    {
-        "name":     "android_hardware_ril",
-        "path":     "hardware/ril"
-    }
 ]
