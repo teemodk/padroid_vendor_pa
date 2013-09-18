@@ -1,51 +1,9 @@
 [
     {
-        "remote":       "github",
-        "account":      "adrian-bl-hox-jb",
-        "repository":   "android_external_wpa_supplicant_8",
-        "target_path":  "external/wpa_supplicant_8",
-        "revision":     "jb43"
-    },
-    {
-        "remote":       "github",
-        "account":      "adrian-bl-hox-jb",
-        "repository":   "android_hardware_libhardware",
-        "target_path":  "hardware/libhardware",
-        "revision":     "jb43"
-    },
-    {
-        "remote":       "github",
-        "account":      "adrian-bl-hox-jb",
-        "repository":   "android_hardware_libhardware_legacy",
-        "target_path":  "hardware/libhardware_legacy",
-        "revision":     "jb43"
-    },
-    {
-        "remote":       "github",
-        "account":      "adrian-bl-hox-jb",
-        "repository":   "android_external_bluetooth_bluedroid",
-        "target_path":  "external/bluetooth/bluedroid",
-        "revision":     "jb43"
-    },
-    {
         "remote":      "github",
         "account":     "teemodk",
         "repository":  "android_packages_apps_Torch",
         "target_path": "packages/apps/Torch",
         "revision":    "cm-10.2"
-    },
-    {
-        "remote":       "github",
-        "account":      "adrian-bl-hox-jb",
-        "repository":   "android_hardware_ril",
-        "target_path":  "hardware/ril",
-        "revision":     "jb"
-    },
-    {
-        "remote":       "github",
-        "account":      "adrian-bl-hox-jb",
-        "repository":   "android_hardware_ti_wlan",
-        "target_path":  "hardware/ti/wlan",
-        "revision":     "jb"
     }
 ]
