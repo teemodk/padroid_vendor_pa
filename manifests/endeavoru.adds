@@ -1,5 +1,12 @@
 [
     {
+        "remote":       "github",
+        "account":      "adrian-bl-hox-jb",
+        "repository":   "android_external_wpa_supplicant_8",
+        "target_path":  "external/wpa_supplicant_8",
+        "revision":     "jb43"
+    },
+    {
         "remote":      "github",
         "account":     "teemodk",
         "repository":  "android_packages_apps_Torch",
