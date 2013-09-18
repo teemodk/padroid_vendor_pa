@@ -9,8 +9,22 @@
     {
         "remote":       "github",
         "account":      "adrian-bl-hox-jb",
+        "repository":   "android_hardware_libhardware",
+        "target_path":  "hardware/libhardware",
+        "revision":     "jb43"
+    },
+    {
+        "remote":       "github",
+        "account":      "adrian-bl-hox-jb",
         "repository":   "android_hardware_libhardware_legacy",
         "target_path":  "hardware/libhardware_legacy",
+        "revision":     "jb43"
+    },
+    {
+        "remote":       "github",
+        "account":      "adrian-bl-hox-jb",
+        "repository":   "android_external_bluetooth_bluedroid",
+        "target_path":  "external/bluetooth/bluedroid",
         "revision":     "jb43"
     },
     {
