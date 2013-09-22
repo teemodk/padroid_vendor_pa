@@ -30,8 +30,8 @@
     {
         "remote":       "github",
         "account":      "teemodk",
-        "repository":   "android_hardware_ril",
-        "target_path":  "hardware/ril",
+        "repository":   "android_frameworks_opt_telephony",
+        "target_path":  "frameworks/opt/telephony",
         "revision":     "jb43"
     }
 ]
