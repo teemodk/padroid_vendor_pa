@@ -6,5 +6,9 @@
     {
         "name":     "platform/hardware/ti/wlan",
         "path":     "hardware/ti/wlan"
+    },
+    {
+        "name":     "android_hardware_ril",
+        "path":     "hardware/ril"
     }
 ]
