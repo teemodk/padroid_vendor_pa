@@ -26,5 +26,12 @@
         "repository":   "android_packages_apps_Torch",
         "target_path":  "packages/apps/Torch",
         "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "teemodk",
+        "repository":   "android_hardware_ril",
+        "target_path":  "hardware/ril",
+        "revision":     "jb43"
     }
 ]
