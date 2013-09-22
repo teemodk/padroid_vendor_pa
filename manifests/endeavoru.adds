@@ -32,6 +32,6 @@
         "account":      "teemodk",
         "repository":   "android_frameworks_opt_telephony",
         "target_path":  "frameworks/opt/telephony",
-        "revision":     "jb43"
+        "revision":     "cm-10.2"
     }
 ]
