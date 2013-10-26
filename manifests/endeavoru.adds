@@ -1,2 +1,24 @@
 [
+    {
+        "remote": "github",
+        "account": "teemodk",
+        "repository": "android_hardware_ti_wlan",
+        "target_path": "hardware/ti/wlan",
+        "revision": "cm-10.2"
+    },
+    {
+        "remote": "github",
+        "account": "teemodk",
+        "repository": "hostap",
+        "target_path": "external/wpa_supplicant_8_ti",
+        "revision": "padroid"
+    },
+    {
+        "remote": "github",
+        "account": "CyanogenMod",
+        "repository": "android_packages_apps_Torch",
+        "target_path": "packages/apps/Torch",
+        "revision": "cm-10.2"
+    }
+    
 ]
