@@ -1,5 +1,5 @@
 # Extra packages
 PRODUCT_PACKAGES += \
     DSPManager \
-    libcyanogen-dsp \
-    HALO
+    libcyanogen-dsp
+    
