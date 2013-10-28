@@ -41,7 +41,7 @@ PRODUCT_NAME := pa_endeavoru
 PRODUCT_BRAND := htc_europe
 PRODUCT_MODEL := HTC One X
 PRODUCT_MANUFACTURER := HTC
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=endeavoru TARGET_DEVICE=endeavoru BUILD_FINGERPRINT="htc_europe/endeavoru/endeavoru:4.1.1/JRO03C/128187.31:user/release-keys" PRIVATE_BUILD_DESC="3.14.401.31 CL128187 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=endeavoru TARGET_DEVICE=endeavoru BUILD_FINGERPRINT="htc/htc_europe/endeavoru:4.2.2/JDQ39/231174.2:user/release-keys" PRIVATE_BUILD_DESC="4.18.401.2 CL231174 release-keys"
 
 # Include ParanoidAndroid repos configuration
 include vendor/pa/config/pa_addons.mk
